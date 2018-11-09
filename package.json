@@ -1,0 +1,27 @@
+{
+  "name": "numbermovies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/numbersi/numberMovies.git"
+  },
+  "keywords": [
+    "movie",
+    "trailer"
+  ],
+  "author": "Numbersi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/numbersi/numberMovies/issues"
+  },
+  "homepage": "https://github.com/numbersi/numberMovies#readme",
+  "dependencies": {
+    "koa": "^2.6.1"
+  }
+}
